@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Living City — Inside an Animal Cell</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><ellipse cx='32' cy='34' rx='26' ry='28' fill='%23c3d0dc'/><circle cx='34' cy='24' r='11' fill='%238a5cc8'/><ellipse cx='22' cy='42' rx='8' ry='4' fill='%23e07a2e'/></svg>" />
+</head>
+<body>
+  <div id="boot" style="position:fixed;inset:0;z-index:50;background:#fff;display:grid;place-items:center;transition:opacity .9s;font-family:Montserrat,system-ui,sans-serif">
+    <div style="text-align:center">
+      <svg width="120" height="120" viewBox="0 0 120 120" style="display:block;margin:auto">
+        <ellipse cx="60" cy="62" rx="44" ry="50" fill="#e6eef5" stroke="#b9c7d3" stroke-width="6"/>
+        <circle cx="62" cy="42" r="17" fill="#8a5cc8"><animate attributeName="r" values="16;18;16" dur="2s" repeatCount="indefinite"/></circle>
+        <rect x="34" y="70" width="26" height="12" rx="6" fill="#e07a2e" transform="rotate(-25 47 76)"/>
+        <path d="M66 80 q10 -10 20 0 q-10 6 -20 0z" fill="#d77fa6"/>
+        <circle cx="82" cy="60" r="4" fill="#8e4fd0"/>
+      </svg>
+      <div style="margin-top:18px;font-weight:800;font-size:15px;letter-spacing:.18em;color:#1b2a5a">BUILDING THE LIVING CITY</div>
+      <div id="bootbar" style="margin:12px auto 0;width:200px;height:4px;border-radius:4px;background:#eef0f6;overflow:hidden"><i style="display:block;height:100%;width:30%;background:linear-gradient(90deg,#8a5cc8,#d77fa6);animation:bootbar 1.2s ease-in-out infinite alternate"></i></div>
+    </div>
+    <style>@keyframes bootbar{from{transform:translateX(-60%)}to{transform:translateX(260%)}}</style>
+  </div>
+  <div id="app"></div>
+  <div id="ui"></div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

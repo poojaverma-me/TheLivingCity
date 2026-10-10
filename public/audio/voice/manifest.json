@@ -1,0 +1,650 @@
+{
+  "intro_01": {
+    "file": "intro_01.774a922c.mp3",
+    "duration": 9.48,
+    "text": "Hello, and welcome to the Living City. I'm Dr. Celia Mendel, and everything around you is happening inside a single animal cell.",
+    "speaker": "celia"
+  },
+  "intro_02": {
+    "file": "intro_02.287b6531.mp3",
+    "duration": 9.92,
+    "text": "A small confession: we've slowed everything down and shown only part of it. Real cells are far faster, and far more crowded.",
+    "speaker": "celia"
+  },
+  "intro_03": {
+    "file": "intro_03.1fdcf61e.mp3",
+    "duration": 6.08,
+    "text": "There's no right order here. Wander, poke at things, and follow whatever catches your eye.",
+    "speaker": "celia"
+  },
+  "intro_04": {
+    "file": "intro_04.6ec76dda.mp3",
+    "duration": 4.72,
+    "text": "And whenever you want me, just press G. I'm always happy to talk shop.",
+    "speaker": "celia"
+  },
+  "tut_move": {
+    "file": "tut_move.409141b0.mp3",
+    "duration": 7.56,
+    "text": "To walk, use W, A, S and D, or simply click the ground. Hold Shift if you're in a hurry.",
+    "speaker": "celia"
+  },
+  "tut_rotate": {
+    "file": "tut_rotate.40425c3d.mp3",
+    "duration": 5.04,
+    "text": "Press Q or E, or drag with the right mouse button, to turn the view.",
+    "speaker": "celia"
+  },
+  "tut_zoom": {
+    "file": "tut_zoom.97514ce6.mp3",
+    "duration": 5.56,
+    "text": "Scroll to zoom. Scroll all the way out and you'll see the whole city at once.",
+    "speaker": "celia"
+  },
+  "tut_interact": {
+    "file": "tut_interact.394303a7.mp3",
+    "duration": 4.48,
+    "text": "See something glowing? Press E, or click it, for a closer look.",
+    "speaker": "celia"
+  },
+  "tut_guide": {
+    "file": "tut_guide.0e6f24af.mp3",
+    "duration": 4.72,
+    "text": "Press G whenever you'd like to know what a place is, or where to go next.",
+    "speaker": "celia"
+  },
+  "tut_notebook": {
+    "file": "tut_notebook.7808a190.mp3",
+    "duration": 7,
+    "text": "Your field notebook keeps track of everything you find. Press N to open it, and H for the controls.",
+    "speaker": "celia"
+  },
+  "nucleus_arrive": {
+    "file": "nucleus_arrive.a6e6ab58.mp3",
+    "duration": 8.68,
+    "text": "This is the nucleus, the control centre. The DNA lives here, and its instructions go out as RNA copies of genes.",
+    "speaker": "celia"
+  },
+  "nucleus_more": {
+    "file": "nucleus_more.d498db84.mp3",
+    "duration": 9.84,
+    "text": "See the pores in that double envelope? There are a few thousand of them. Small molecules slip through; big ones need the right molecular passport.",
+    "speaker": "celia"
+  },
+  "nucleus_try": {
+    "file": "nucleus_try.cc73d4ca.mp3",
+    "duration": 6.68,
+    "text": "Would you like to try transcribing a gene? Pick one at the console, and we'll walk the messenger RNA out together.",
+    "speaker": "celia"
+  },
+  "nucleus_done": {
+    "file": "nucleus_done.2aac37fd.mp3",
+    "duration": 7.48,
+    "text": "Beautifully done. The DNA never leaves; only its RNA copy goes out through the pores to the ribosomes.",
+    "speaker": "celia"
+  },
+  "nucleolus_arrive": {
+    "file": "nucleolus_arrive.0b73327d.mp3",
+    "duration": 8.64,
+    "text": "That glowing orb is the nucleolus. Ribosomal RNA is made here, and the pieces of new ribosomes are put together.",
+    "speaker": "celia"
+  },
+  "nucleolus_more": {
+    "file": "nucleolus_more.431ead5d.mp3",
+    "duration": 8.52,
+    "text": "Funny thing: it has no membrane at all. It's more like a droplet that condenses around the ribosomal RNA genes.",
+    "speaker": "celia"
+  },
+  "nucleolus_try": {
+    "file": "nucleolus_try.5e268fc3.mp3",
+    "duration": 7.12,
+    "text": "Would you like to try building a ribosome? We'll assemble a small and a large subunit and send them on their way.",
+    "speaker": "celia"
+  },
+  "nucleolus_done": {
+    "file": "nucleolus_done.66eda3c8.mp3",
+    "duration": 7.96,
+    "text": "Lovely. The two subunits leave separately, and only clasp together on a messenger RNA out in the cytoplasm.",
+    "speaker": "celia"
+  },
+  "ribosomes_arrive": {
+    "file": "ribosomes_arrive.1c1acf10.mp3",
+    "duration": 9.52,
+    "text": "These little red studs are ribosomes, the protein factories. Each one reads messenger RNA and strings amino acids together.",
+    "speaker": "celia"
+  },
+  "ribosomes_more": {
+    "file": "ribosomes_more.daa5afe3.mp3",
+    "duration": 9.8,
+    "text": "My favourite part: the actual bond-making is done by RNA, not protein. At heart, the ribosome is an ancient ribozyme.",
+    "speaker": "celia"
+  },
+  "ribosomes_try": {
+    "file": "ribosomes_try.68d8b988.mp3",
+    "duration": 6.8,
+    "text": "Would you like to try translating? Match each codon to its amino acid and watch your protein grow.",
+    "speaker": "celia"
+  },
+  "ribosomes_done": {
+    "file": "ribosomes_done.442be928.mp3",
+    "duration": 7.92,
+    "text": "Perfect. Three letters per codon, one amino acid each, until a stop codon says the protein is finished.",
+    "speaker": "celia"
+  },
+  "rer_arrive": {
+    "file": "rer_arrive.9147d236.mp3",
+    "duration": 8.68,
+    "text": "These blue corridors are the rough ER. The studs are ribosomes, feeding new proteins straight into the space inside.",
+    "speaker": "celia"
+  },
+  "rer_more": {
+    "file": "rer_more.a6012284.mp3",
+    "duration": 9.52,
+    "text": "A short signal at the start of a protein works like a ticket. It brings the ribosome here and threads the chain through a channel called Sec sixty-one.",
+    "speaker": "celia"
+  },
+  "rer_try": {
+    "file": "rer_try.56d4c3b3.mp3",
+    "duration": 6.08,
+    "text": "Would you like to try running the production line? Start translation and follow your protein inside.",
+    "speaker": "celia"
+  },
+  "rer_done": {
+    "file": "rer_done.78ebd84b.mp3",
+    "duration": 9.04,
+    "text": "Nicely done. Signal, docking, threading, folding: that's how secreted and membrane proteins begin their lives.",
+    "speaker": "celia"
+  },
+  "ser_arrive": {
+    "file": "ser_arrive.42298a7e.mp3",
+    "duration": 9.44,
+    "text": "Welcome to the smooth ER. No ribosomes here; these tubules make lipids, help detoxify drugs, and store calcium.",
+    "speaker": "celia"
+  },
+  "ser_more": {
+    "file": "ser_more.be456b31.mp3",
+    "duration": 8.8,
+    "text": "In liver cells, enzymes called P four-fifties add oxygen to fat-soluble toxins, making them easier for the body to flush away.",
+    "speaker": "celia"
+  },
+  "ser_try": {
+    "file": "ser_try.4703595c.mp3",
+    "duration": 6.44,
+    "text": "Would you like to try a detox shift? Catch the drifting toxins and let the enzymes do their work.",
+    "speaker": "celia"
+  },
+  "ser_done": {
+    "file": "ser_done.d8412ec9.mp3",
+    "duration": 8.88,
+    "text": "Excellent shift. Smooth ER builds lipids and makes toxins easier to excrete. Your liver is doing exactly this right now.",
+    "speaker": "celia"
+  },
+  "vesicles_arrive": {
+    "file": "vesicles_arrive.869325f2.mp3",
+    "duration": 9.04,
+    "text": "These purple bubbles are transport vesicles: little membrane parcels carrying cargo between compartments and out to the surface.",
+    "speaker": "celia"
+  },
+  "vesicles_more": {
+    "file": "vesicles_more.aac42c79.mp3",
+    "duration": 9.96,
+    "text": "They don't really roll on roads. Motor proteins carry them along microtubules: kinesin heads outward, dynein heads back toward the centre.",
+    "speaker": "celia"
+  },
+  "vesicles_try": {
+    "file": "vesicles_try.2f73d696.mp3",
+    "duration": 6.28,
+    "text": "Would you like to launch one? Bud a vesicle from the Golgi and follow it all the way to the membrane.",
+    "speaker": "celia"
+  },
+  "vesicles_done": {
+    "file": "vesicles_done.9f6d04d9.mp3",
+    "duration": 9,
+    "text": "And there's the release. That's exocytosis: the vesicle merges with the cell membrane and its cargo spills outside.",
+    "speaker": "celia"
+  },
+  "golgi_arrive": {
+    "file": "golgi_arrive.bd655900.mp3",
+    "duration": 8.52,
+    "text": "This pink stack is the Golgi apparatus, the shipping centre. Proteins from the ER are finished, sorted and addressed here.",
+    "speaker": "celia"
+  },
+  "golgi_more": {
+    "file": "golgi_more.47c48117.mp3",
+    "duration": 7.92,
+    "text": "Cargo enters at the cis face, nearest the ER, and leaves from the trans face, collecting sugar modifications along the way.",
+    "speaker": "celia"
+  },
+  "golgi_try": {
+    "file": "golgi_try.e55ef8bf.mp3",
+    "duration": 6.64,
+    "text": "Would you like to try sorting cargo? Tag each parcel with its destination, and the conveyors will do the rest.",
+    "speaker": "celia"
+  },
+  "golgi_done": {
+    "file": "golgi_done.12eeb697.mp3",
+    "duration": 8,
+    "text": "Well sorted. Molecular tags, like mannose six-phosphate on lysosomal enzymes, decide where each parcel goes.",
+    "speaker": "celia"
+  },
+  "mitochondria_arrive": {
+    "file": "mitochondria_arrive.1121f174.mp3",
+    "duration": 7.04,
+    "text": "These orange plants are mitochondria, where most of the cell's ATP is made. Listen to those turbines.",
+    "speaker": "celia"
+  },
+  "mitochondria_more": {
+    "file": "mitochondria_more.4e1a31b5.mp3",
+    "duration": 11.36,
+    "text": "The folds inside are cristae, lined with proton pumps. Mitochondria even keep their own little ring of DNA, a souvenir of their bacterial ancestors.",
+    "speaker": "celia"
+  },
+  "mitochondria_try": {
+    "file": "mitochondria_try.161ecf17.mp3",
+    "duration": 6.52,
+    "text": "Would you like to try making some power? Pump protons uphill, then let them spin the turbine.",
+    "speaker": "celia"
+  },
+  "mitochondria_done": {
+    "file": "mitochondria_done.9f0281e2.mp3",
+    "duration": 7.72,
+    "text": "Look at it go! Protons flowing back turn ATP synthase, and every full turn makes three ATP.",
+    "speaker": "celia"
+  },
+  "lysosomes_arrive": {
+    "file": "lysosomes_arrive.7a1f3006.mp3",
+    "duration": 9.72,
+    "text": "These green tanks are lysosomes, the recycling plants. Inside, acid-loving enzymes break worn-out parts back into building blocks.",
+    "speaker": "celia"
+  },
+  "lysosomes_more": {
+    "file": "lysosomes_more.315e43a5.mp3",
+    "duration": 10.56,
+    "text": "They hold their insides at about pH four and a half to five. The enzymes barely work at neutral pH, which makes a rather clever safety catch.",
+    "speaker": "celia"
+  },
+  "lysosomes_try": {
+    "file": "lysosomes_try.2b481220.mp3",
+    "duration": 5.96,
+    "text": "Would you like to try some recycling? Feed in a few worn-out parts and watch what happens.",
+    "speaker": "celia"
+  },
+  "lysosomes_done": {
+    "file": "lysosomes_done.b23ca712.mp3",
+    "duration": 7.36,
+    "text": "All digested. Proteins become amino acids, and the cell happily puts every one of them back to work.",
+    "speaker": "celia"
+  },
+  "vacuoles_arrive": {
+    "file": "vacuoles_arrive.88c73e77.mp3",
+    "duration": 6.8,
+    "text": "These are the storage tanks: vacuoles, holding water, nutrients and a bit of waste.",
+    "speaker": "celia"
+  },
+  "vacuoles_more": {
+    "file": "vacuoles_more.03f0c68c.mp3",
+    "duration": 9.96,
+    "text": "I'll be honest, the poster flatters them. Animal cell vacuoles are small and varied; it's plant cells that have one enormous central vacuole.",
+    "speaker": "celia"
+  },
+  "vacuoles_try": {
+    "file": "vacuoles_try.3ed2e316.mp3",
+    "duration": 5.68,
+    "text": "Would you like to try balancing the tanks? Fill and drain them, and keep the city comfortable.",
+    "speaker": "celia"
+  },
+  "vacuoles_done": {
+    "file": "vacuoles_done.7c5924a9.mp3",
+    "duration": 8.68,
+    "text": "Nicely balanced. Animal cells manage water mostly with ion pumps; plants lean on that great central vacuole to stay firm.",
+    "speaker": "celia"
+  },
+  "membrane_arrive": {
+    "file": "membrane_arrive.e219876f.mp3",
+    "duration": 7.76,
+    "text": "This is the cell membrane, the city boundary. It's a lipid bilayer that decides what comes in and what goes out.",
+    "speaker": "celia"
+  },
+  "membrane_more": {
+    "file": "membrane_more.9ef201e0.mp3",
+    "duration": 8.64,
+    "text": "In reality it's only about five nanometres thick: a fluid film with proteins drifting through it, not a stone wall.",
+    "speaker": "celia"
+  },
+  "membrane_try": {
+    "file": "membrane_try.1e39204f.mp3",
+    "duration": 5.12,
+    "text": "Would you like to try being the gatekeeper? Decide how each molecule should get across.",
+    "speaker": "celia"
+  },
+  "membrane_done": {
+    "file": "membrane_done.6fa62c4c.mp3",
+    "duration": 9.6,
+    "text": "Spot on. Oxygen just diffuses, glucose needs a carrier, and the sodium-potassium pump pays for every crossing in ATP.",
+    "speaker": "celia"
+  },
+  "cur_nuclear_pore": {
+    "file": "cur_nuclear_pore.2656ee42.mp3",
+    "duration": 9,
+    "text": "A nuclear pore, up close! Each one handles around a thousand crossings a second, and it's remarkably picky about who gets through.",
+    "speaker": "celia"
+  },
+  "cur_chromatin_archive": {
+    "file": "cur_chromatin_archive.b9085bd5.mp3",
+    "duration": 8.92,
+    "text": "The chromatin archive. Two metres of DNA wound onto histone spools. The real trick is knowing which shelves to open.",
+    "speaker": "celia"
+  },
+  "cur_centrosome": {
+    "file": "cur_centrosome.01db0d4a.mp3",
+    "duration": 9.24,
+    "text": "Oh, you found the centrosome! It organises the cell's microtubules, and before division it copies itself to form the two spindle poles.",
+    "speaker": "celia"
+  },
+  "cur_rrna_genes": {
+    "file": "cur_rrna_genes.69a7da5a.mp3",
+    "duration": 9.8,
+    "text": "Hundreds of copies of the same gene! Ribosomal RNA is never translated, so the only way to make loads of it is lots of genes.",
+    "speaker": "celia"
+  },
+  "cur_food_truck": {
+    "file": "cur_food_truck.8f8ff0e9.mp3",
+    "duration": 8.64,
+    "text": "A free ribosome! Same machine as the ones on the ER, just making proteins for the cytosol, the nucleus or the mitochondria.",
+    "speaker": "celia"
+  },
+  "cur_signal_ticket": {
+    "file": "cur_signal_ticket.78a5cdc5.mp3",
+    "duration": 9.16,
+    "text": "There's the ticket: a signal peptide. A short run of water-shy amino acids, and the protein is on its way into the ER.",
+    "speaker": "celia"
+  },
+  "cur_bip_crew": {
+    "file": "cur_bip_crew.437098e9.mp3",
+    "duration": 7.44,
+    "text": "Meet BiP, the folding crew. It holds on to sticky, unfolded stretches until the protein gets its shape right.",
+    "speaker": "celia"
+  },
+  "cur_calcium_reservoir": {
+    "file": "cur_calcium_reservoir.c6695c5c.mp3",
+    "duration": 10.88,
+    "text": "The calcium reservoir. Open that valve and calcium floods out: muscles contract, hormones are released. Small ion, big consequences.",
+    "speaker": "celia"
+  },
+  "cur_grapefruit": {
+    "file": "cur_grapefruit.593e4989.mp3",
+    "duration": 11.48,
+    "text": "A grapefruit warning! Grapefruit compounds jam one of the P four-fifty enzymes, so some medicines build up in the blood. Breakfast, it turns out, is pharmacology.",
+    "speaker": "celia"
+  },
+  "cur_kinesin_walker": {
+    "file": "cur_kinesin_walker.143cb4d9.mp3",
+    "duration": 7.96,
+    "text": "Look, a kinesin, walking hand over hand. Eight nanometres a step, one ATP each time.",
+    "speaker": "celia"
+  },
+  "cur_endocytosis_gate": {
+    "file": "cur_endocytosis_gate.426d58e9.mp3",
+    "duration": 9.4,
+    "text": "Endocytosis in action! A clathrin cage pulls in a patch of membrane, and the cell swallows whatever was waiting outside.",
+    "speaker": "celia"
+  },
+  "cur_cytoskeleton_cables": {
+    "file": "cur_cytoskeleton_cables.4f8b1693.mp3",
+    "duration": 6.96,
+    "text": "The cytoskeleton. Those cables are scaffolding, tension wires and railway, all at once.",
+    "speaker": "celia"
+  },
+  "cur_m6p_tag": {
+    "file": "cur_m6p_tag.4c10a336.mp3",
+    "duration": 9.08,
+    "text": "That's the mannose six-phosphate tag, the lysosome's postcode. Without it, digestive enzymes get shipped out of the cell by mistake.",
+    "speaker": "celia"
+  },
+  "cur_cis_trans_signs": {
+    "file": "cur_cis_trans_signs.3f918369.mp3",
+    "duration": 8.76,
+    "text": "Cis and trans signs! Cis faces the ER, trans faces the cell surface. Even the Golgi needs to know which way is up.",
+    "speaker": "celia"
+  },
+  "cur_mtdna_ring": {
+    "file": "cur_mtdna_ring.c82d2825.mp3",
+    "duration": 8.8,
+    "text": "The mitochondrial DNA ring: thirty-seven genes, inherited almost entirely from your mother. Perhaps thank her next time you call.",
+    "speaker": "celia"
+  },
+  "cur_krebs_roundabout": {
+    "file": "cur_krebs_roundabout.f17da59f.mp3",
+    "duration": 7.76,
+    "text": "The Krebs roundabout. Carbon comes in, carbon dioxide goes out, and the electrons are handed on to the power plant.",
+    "speaker": "celia"
+  },
+  "cur_atp_counter": {
+    "file": "cur_atp_counter.5259c09f.mp3",
+    "duration": 6.8,
+    "text": "Check that counter. You recycle roughly your own body weight in ATP every single day.",
+    "speaker": "celia"
+  },
+  "cur_autophagy": {
+    "file": "cur_autophagy.5e1e4614.mp3",
+    "duration": 9.12,
+    "text": "Autophagy, literally self-eating. Less grim than it sounds: it's how cells clean house and get through lean times.",
+    "speaker": "celia"
+  },
+  "cur_ph_gauge": {
+    "file": "cur_ph_gauge.8307dc45.mp3",
+    "duration": 9,
+    "text": "pH four and a half. Acidic enough to digest almost anything, and kept that way by proton pumps working nonstop.",
+    "speaker": "celia"
+  },
+  "cur_rubber_duck": {
+    "file": "cur_rubber_duck.a336754d.mp3",
+    "duration": 8.56,
+    "text": "Is that a rubber duck? That is not an organelle. I'll be having a word with the vacuole crew.",
+    "speaker": "celia"
+  },
+  "cur_aquaporin": {
+    "file": "cur_aquaporin.ecf6234b.mp3",
+    "duration": 9,
+    "text": "An aquaporin! Water marches through in single file, billions of molecules a second, while protons are kept firmly out.",
+    "speaker": "celia"
+  },
+  "cur_receptor_antenna": {
+    "file": "cur_receptor_antenna.a9031c6e.mp3",
+    "duration": 9,
+    "text": "A receptor antenna. Its family picks up hormones, scents and even light, and about a third of all medicines target it.",
+    "speaker": "celia"
+  },
+  "cur_peroxisome": {
+    "file": "cur_peroxisome.8821ed63.mp3",
+    "duration": 8.84,
+    "text": "A peroxisome, our little guest! It breaks down very long fatty acids, and its catalase makes short work of hydrogen peroxide.",
+    "speaker": "celia"
+  },
+  "cur_apoptosis_switch": {
+    "file": "cur_apoptosis_switch.e877a230.mp3",
+    "duration": 10.76,
+    "text": "Please don't press that! It's apoptosis, a tidy, programmed self-destruct. Your body uses it billions of times a day, just not here, please.",
+    "speaker": "celia"
+  },
+  "suggest_nucleus": {
+    "file": "suggest_nucleus.6ff01149.mp3",
+    "duration": 8.24,
+    "text": "If you haven't been yet, the violet dome is worth a visit. That's the nucleus, and the screens inside are rather mesmerising.",
+    "speaker": "celia"
+  },
+  "suggest_rer": {
+    "file": "suggest_rer.bdff5b68.mp3",
+    "duration": 7.84,
+    "text": "Those blue terraced rings around the dome are the rough ER. Walk along them and you'll catch proteins being made.",
+    "speaker": "celia"
+  },
+  "suggest_ser": {
+    "file": "suggest_ser.c67beefd.mp3",
+    "duration": 7.76,
+    "text": "Have you found the green ribbon folds yet? That's the smooth ER, quietly making lipids and cleaning up toxins.",
+    "speaker": "celia"
+  },
+  "suggest_golgi": {
+    "file": "suggest_golgi.95bdcc7a.mp3",
+    "duration": 6.76,
+    "text": "The pink stacked building near the front gate is the Golgi. It's the busiest shipping hall in town.",
+    "speaker": "celia"
+  },
+  "suggest_mitochondria": {
+    "file": "suggest_mitochondria.4fdc4de5.mp3",
+    "duration": 7.6,
+    "text": "Hear that humming? Follow it to the big orange capsules. Those are the mitochondria, our power plants.",
+    "speaker": "celia"
+  },
+  "suggest_lysosomes": {
+    "file": "suggest_lysosomes.434f1af9.mp3",
+    "duration": 6.32,
+    "text": "Look for the green tanks with the recycling symbol. That's where the lysosomes take old parts apart.",
+    "speaker": "celia"
+  },
+  "suggest_vacuoles": {
+    "file": "suggest_vacuoles.d68bbc50.mp3",
+    "duration": 6.76,
+    "text": "The round tanks of turquoise water are the vacuoles. Go and have a look, and keep an eye on the water.",
+    "speaker": "celia"
+  },
+  "suggest_membrane": {
+    "file": "suggest_membrane.0cba8400.mp3",
+    "duration": 5.36,
+    "text": "Try walking out to the edge of the city. The membrane gates have far more going on than you'd think.",
+    "speaker": "celia"
+  },
+  "idle_01": {
+    "file": "idle_01.8cae1801.mp3",
+    "duration": 8.32,
+    "text": "Somewhere in your body, all of this is happening right now, in trillions of cells at once. Rather humbling, isn't it?",
+    "speaker": "celia"
+  },
+  "idle_02": {
+    "file": "idle_02.289fa905.mp3",
+    "duration": 5.72,
+    "text": "I never tire of this place. Every corner is quietly doing something useful.",
+    "speaker": "celia"
+  },
+  "idle_03": {
+    "file": "idle_03.7d4d5d43.mp3",
+    "duration": 8.36,
+    "text": "You have roughly thirty trillion cells. Most of them are red blood cells, which have thrown out their nucleus entirely.",
+    "speaker": "celia"
+  },
+  "idle_04": {
+    "file": "idle_04.2c47ff6f.mp3",
+    "duration": 5.6,
+    "text": "Take your time. Science is mostly patient looking, with the occasional gasp.",
+    "speaker": "celia"
+  },
+  "idle_05": {
+    "file": "idle_05.8ab19479.mp3",
+    "duration": 4.8,
+    "text": "If you're wondering where to go next, press G and I'll point you somewhere interesting.",
+    "speaker": "celia"
+  },
+  "idle_06": {
+    "file": "idle_06.9d91960c.mp3",
+    "duration": 7.56,
+    "text": "Listen for a moment. That hum is thousands of machines, each doing one small job very well.",
+    "speaker": "celia"
+  },
+  "bark_nucleolus_01": {
+    "file": "bark_nucleolus_01.6f9b4f78.mp3",
+    "duration": 4.66,
+    "text": "Ribosome subunits, fresh from the nucleolus! Small ones this way, large ones that way!",
+    "speaker": "worker3"
+  },
+  "bark_nucleus_01": {
+    "file": "bark_nucleus_01.a93de205.mp3",
+    "duration": 4.32,
+    "text": "Messenger RNA coming through! Capped, spliced and tailed. Mind the pore!",
+    "speaker": "worker3"
+  },
+  "bark_rer_01": {
+    "file": "bark_rer_01.4ba63f16.mp3",
+    "duration": 3.64,
+    "text": "No ticket, no entry! Signal sequence first, then into the translocon.",
+    "speaker": "worker3"
+  },
+  "bark_rer_02": {
+    "file": "bark_rer_02.d745e001.mp3",
+    "duration": 2.62,
+    "text": "Folding crew, we've got a stubborn one here. Send BiP over!",
+    "speaker": "worker3"
+  },
+  "bark_ser_01": {
+    "file": "bark_ser_01.0921e51f.mp3",
+    "duration": 6.04,
+    "text": "Another batch of toxins for the P four-fifties. The liver shift never ends.",
+    "speaker": "worker4"
+  },
+  "bark_golgi_01": {
+    "file": "bark_golgi_01.2c1b31df.mp3",
+    "duration": 4.76,
+    "text": "Parcel coming through! Glycosylated, labelled and ready to ship!",
+    "speaker": "worker1"
+  },
+  "bark_golgi_02": {
+    "file": "bark_golgi_02.0557c0be.mp3",
+    "duration": 5.2,
+    "text": "Mannose six-phosphate on this one. Lysosome delivery, express!",
+    "speaker": "worker1"
+  },
+  "bark_vesicles_01": {
+    "file": "bark_vesicles_01.60c643d5.mp3",
+    "duration": 5.04,
+    "text": "Vesicle departing for the membrane! Kinesin's driving, so hold on tight!",
+    "speaker": "worker1"
+  },
+  "bark_mitochondria_01": {
+    "file": "bark_mitochondria_01.187ff874.mp3",
+    "duration": 5.44,
+    "text": "Mind the turbines. This plant makes the ATP that keeps the whole city running.",
+    "speaker": "worker2"
+  },
+  "bark_mitochondria_02": {
+    "file": "bark_mitochondria_02.afb70b75.mp3",
+    "duration": 5.02,
+    "text": "Keep the oxygen coming! No oxygen at the end of the line, no power for anyone.",
+    "speaker": "worker2"
+  },
+  "bark_membrane_01": {
+    "file": "bark_membrane_01.17cf9fd5.mp3",
+    "duration": 4.78,
+    "text": "Three sodium out, two potassium in. One ATP. Next!",
+    "speaker": "worker2"
+  },
+  "bark_lysosomes_01": {
+    "file": "bark_lysosomes_01.08a24d46.mp3",
+    "duration": 5.42,
+    "text": "Old parts in, building blocks out. Nothing goes to waste around here.",
+    "speaker": "worker4"
+  },
+  "bark_lysosomes_02": {
+    "file": "bark_lysosomes_02.b3a3241e.mp3",
+    "duration": 5.08,
+    "text": "Keep it acidic, team. pH four and a half to five, and not a drop higher.",
+    "speaker": "worker4"
+  },
+  "bark_vacuoles_01": {
+    "file": "bark_vacuoles_01.380e56bd.mp3",
+    "duration": 3.46,
+    "text": "Tanks are topped up. Has anyone seen my duck?",
+    "speaker": "worker4"
+  },
+  "end_01": {
+    "file": "end_01.aadbee51.mp3",
+    "duration": 8.8,
+    "text": "That's everything: every district, every experiment, every hidden corner. You've seen a whole cell at work. Bravo!",
+    "speaker": "celia"
+  },
+  "end_02": {
+    "file": "end_02.89514163.mp3",
+    "duration": 5.54,
+    "text": "The city never stops, of course. Do keep wandering; there's always something new to notice.",
+    "speaker": "celia"
+  }
+}
